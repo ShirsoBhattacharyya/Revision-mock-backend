@@ -1,0 +1,23 @@
+{
+  "name": "revision-mock-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirsoBhattacharyya/Revision-mock-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShirsoBhattacharyya/Revision-mock-backend/issues"
+  },
+  "homepage": "https://github.com/ShirsoBhattacharyya/Revision-mock-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
