@@ -5,70 +5,80 @@
         "name": "Gertrudis Tatterton",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "email": "gtatterton0@ehow.com",
+        "password":"abc@123"
       },
       {
         "id": 2,
         "name": "Gail Newbatt",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 53,
-        "email": "gnewbatt1@un.org"
+        "email": "gnewbatt1@un.org",
+        "password":"abc@123"
       },
       {
         "id": 3,
         "name": "Walliw Wilstead",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
+        "email": "wwilstead2@tripadvisor.com",
+        "password":"abc@123"
       },
       {
         "id": 4,
         "name": "Abran Proback",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 29,
-        "email": "aproback3@theglobeandmail.com"
+        "email": "aproback3@theglobeandmail.com",
+        "password":"abc@123"
       },
       {
         "id": 5,
         "name": "Roda Chappelow",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
+        "email": "rchappelow4@oaic.gov.au",
+        "password":"abc@123"
       },
       {
         "id": 6,
         "name": "Karney Wylie",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
+        "email": "kwylie5@miitbeian.gov.cn",
+        "password":"abc@123"
       },
       {
         "id": 7,
         "name": "Cammi Pimbley",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 63,
-        "email": "cpimbley6@nyu.edu"
+        "email": "cpimbley6@nyu.edu",
+        "password":"abc@123"
       },
       {
         "id": 8,
         "name": "Gavra Manning",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 43,
-        "email": "gmanning7@lycos.com"
+        "email": "gmanning7@lycos.com",
+        "password":"abc@123"
       },
       {
         "id": 9,
         "name": "Zachary Seward",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 45,
-        "email": "zseward8@oracle.com"
+        "email": "zseward8@oracle.com",
+        "password":"abc@123"
       },
       {
         "id": 10,
         "name": "Chucho Norssister",
         "avatar":"https://i.pravatar.cc/150?img=47",
         "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
+        "email": "cnorssister9@mayoclinic.com",
+        "password":"abc@123"
       }
     ],
     "books":[]
